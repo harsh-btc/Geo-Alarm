@@ -1,0 +1,15 @@
+{
+  "name": "geoalarm",
+  "version": "1.0.0",
+  "description": "Location-based alarm system — full-stack",
+  "private": true,
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
+}

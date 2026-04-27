@@ -228,7 +228,7 @@ export default function Landing() {
         textAlign: 'center',
         color: 'var(--text-muted)', fontSize: '13px',
       }}>
-        © 2024 GeoAlarm. Built with ❤️ for location-aware living.
+        © 2026 GeoAlarm. Built with ❤️ for location-aware living.
       </footer>
     </div>
   );
